@@ -1,0 +1,64 @@
+{
+	"artist": "Max Mustermann",
+	"email": "max@mustermann.at",
+	"website": "https://maxmustermann.com",
+
+	"art_nav": "Art and Drawings",
+	"about": "About me",
+	"more": "More...",
+
+	"short_bio": "My name is Max Mustermann. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque in lorem rhoncus cursus id nec leo. Duis et hendrerit orci, eget semper est.",
+
+	"address": {
+		"name": "Address",
+		"street": "Musermann Str. 1",
+		"city": "1 Mustercity",
+		"country": "Mustercountry"
+	},
+
+	"contact": {
+		"name": "Address",
+		"email_descr": "E-Mail",
+		"website_descr": "Website"
+	},
+
+	"infos": {
+		"name": "Infos",
+		"infos_text": "Private blog and gallery of my art."
+	},
+
+	"bg_image": "https://cdn.pariscityvision.com/library/image/5449.jpg",
+	"artist_image": "https://www.afd-muc-west.de/wp-content/uploads/2018/01/csm_person-placeholder-male_5602d73d5e.png",
+	
+	"biography": {
+		"name": "Biography",
+		"text": "<div>Hi.</div><div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque in lorem rhoncus cursus id nec leo. Duis et hendrerit orci, eget semper est. Duis efficitur, elit non tincidunt condimentum, nibh elit ultricies massa, at placerat erat lacus at odio. Nunc cursus a ex id sodales. Duis nec elit a orci pellentesque dictum non a dolor. Integer sodales nisl sit amet rhoncus hendrerit. Vestibulum consequat bibendum cursus. Pellentesque egestas vestibulum orci nec sagittis. Nullam neque dui, porttitor ut fringilla ac, vehicula id eros. Nunc gravida sollicitudin blandit.</div>"
+	},
+
+	"expositions": {
+		"name": "tAusstellungen",
+		"list": [
+			"1990 - 93 - Gruppenausstellungen: <ul> <li>2 mal in der Hofburg,Wien,</li> <li>2 mal in der Gallerie AKH,Wien,</li> <li>1 mal im Palmenhaus Schloß Fridrichsburg, Kopenhaagen, Dänemark,</li> <li>2 mal in PVANG, Wien.</li> </ul>",
+			"200 - Einzelausstellung in der Redaktion  der AIZ Landwirtschaftsministerium,1010 Wien.",
+			"2002 - Einzelausstellung in der Redaktion von AIZ/ Agrarministerium,Wien.",
+			"2006 - Gruppenausstellungen in der Gallerie BAST,Wien.",
+			"2016 - Philomedia: Einzelausstellung mit Musik von TRIO Roberto Pisati.",
+			"2016 - Art Innsbruck-Teilnahme ,repräsentiert durch ArtInnovation-Gallerie.",
+			"2016 - 17 - Mitglied der Gallerie ARTINNOVATION, Innsbruck.",
+			"2017 - Art Salzburg-Teilnahme/ ArtInnovation.",
+			"2018 - 19 - Vertretung durch AGORA Gallery, NY.",
+			"2020 - Philomedia mit Peter Havlicek."
+		]
+	},
+
+	"techniques": {
+		"name": "Techniken",
+		"list": [
+			"Acryl auf Leinwand,",
+			"Holz, Korb Leimfarben auf grundiertem Packpapier,",
+			"Ölkreiden auf Gemüsepapier,",
+			"Aquarell, Seidenfarben",
+			"Zeichnen: Bleistift, Kohle, Mine, Filzstifte"
+		]
+	}
+}
