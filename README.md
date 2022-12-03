@@ -1,6 +1,6 @@
 # Artist Portfolio
 
-This site helps artists to make their work availiable as a website.
+This site helps artists to make their work available as a website.
 
 To change the content, edit the json file in `data/content.json`.
 
